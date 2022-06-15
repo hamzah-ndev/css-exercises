@@ -6,3 +6,8 @@
 .noClickMe {
     background-color: yellow;
 }
+
+.clickMe, .noClickMe {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
