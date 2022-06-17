@@ -70,5 +70,5 @@ button.cancel {
 }
 
 .header {
-  
+  display: flex;
 }
