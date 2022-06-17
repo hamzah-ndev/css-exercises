@@ -20,9 +20,11 @@ img {
 }
 
 .plants {
-/*   display: flex;
-  justify-content: center;
-  align-items: center; */
+
+}
+
+.text {
+  text-align: center;
 }
 
 /* do not edit this footer */
