@@ -15,12 +15,15 @@ img {
 
 .container {
   display: flex;
-  align-items: center;
   justify-content: space-around;
+  margin-top: 32px;
 }
 
 .plants {
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
 }
 
 .text {
